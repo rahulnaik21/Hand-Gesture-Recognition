@@ -1,7 +1,7 @@
 # Hand-Gesture-Recognition
-# ✋ Handwritten Digit / Hand Gesture Recognition using Machine Learning
+# ✋ Hand Gesture Recognition using Machine Learning
 
-This project demonstrates how machine learning can be used to recognize **handwritten digits or hand gestures**. It covers the full workflow from data preprocessing to model training, evaluation, and prediction.
+This project demonstrates how machine learning can be used to recognize ** hand gestures recognition**. It covers the full workflow from data preprocessing to model training, evaluation, and prediction.
 
 ## 📂 Project Structure
 
